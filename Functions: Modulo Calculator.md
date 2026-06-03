@@ -1,6 +1,5 @@
 # Functions in Python: Modulo Calculator
-### NAME: DODLA SUSMITHA
-### REGISTER NUMBER:212224110016
+
 ## 🎯 Aim
 To write a Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator.
 
