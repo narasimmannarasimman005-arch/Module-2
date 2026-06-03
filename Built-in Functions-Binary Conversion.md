@@ -1,6 +1,5 @@
 # Built-in Functions -Binary Conversion Using Built-in Functions in Python
-### NAME: DODLA SUSMITHA
-### REGISTER NUMBER:212224110016
+
 ## 🎯 Aim
 To write a Python program to convert the number **16** into its **binary representation** using built-in Python functions.
 
